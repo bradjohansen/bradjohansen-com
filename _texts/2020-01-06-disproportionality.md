@@ -1,8 +1,9 @@
-----
+---
 layout: post
+title: 'Disproportionality'
 author: 'Brad Johansen'
 publication-date: '2020-01-06'
-----
+---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">These Media Posts will serve as notification to the United States Congress that should Iran strike any U.S. person or target, the United States will quickly &amp; fully strike back, &amp; perhaps in a disproportionate manner. Such legal notice is not required, but is given nevertheless!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1213919480574812160?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
