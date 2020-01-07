@@ -15,10 +15,11 @@ Thomas Aquinas first considered the principle of proportional response when he d
 > 3. that the good effect be not produced by means of the evil effect;
 > 4. that there be a proportionately grave reason for permitting the evil effect
 
-Michael Walzer argues (and I agree with him) that a person committing an act also must incurr a reasonable amount of risk in order to minimize the amount of harm caused.
+Michael Walzer[^fn2] argues (and I agree with him) that a person committing an act also must incurr a reasonable amount of risk in order to minimize the amount of harm caused.
 
 Proportionality is fundamental to the exercise of modern warfare. The things we do in war should be for a specific military advantage that works towards a well-defined political goal. A disproportionate response to any particular provocation by an enemy, such as Iran, is by definition conducting military operations without regard to the military advantage sought. In other words: pointless. [And illegal](https://casebook.icrc.org/glossary/proportionality).
 
 ---
 ## Footnotes
 [^fn1]: Mangan, Joseph, 1949. “An Historical Analysis of the Principle of Double Effect,” Theological Studies, 10: 41–61. 
+[^fn2]: Walzer, Michael, 1977. Just and Unjust Wars, New York: Basic Books, pp. 151–9; reprinted in Woodward (ed.), 261–269.
