@@ -21,6 +21,6 @@ Proportionality is fundamental to the exercise of modern warfare. The things we 
 
 ---
 ## Footnotes
-[^fn1]: Mangan, Joseph, 1949. “An Historical Analysis of the Principle of Double Effect,” Theological Studies, 10: 41–61. {:.bibliography}
-[^fn2]: Walzer, Michael, 1977. Just and Unjust Wars, New York: Basic Books, pp. 151–9; reprinted in Woodward (ed.), 261–269. {:.bibliography}
+[^fn1]: Mangan, Joseph, 1949. “An Historical Analysis of the Principle of Double Effect,” Theological Studies, 10: 41–61. 
+[^fn2]: Walzer, Michael, 1977. Just and Unjust Wars, New York: Basic Books, pp. 151–9; reprinted in Woodward (ed.), 261–269. 
 
