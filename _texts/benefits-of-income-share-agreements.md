@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Benefits of Income Share Agreements
-author: Brad johansen
+title: 'The Benefits of Income Share Agreements'
+author: 'Brad Johansen'
 date: '2019-09-30 22:00:20'
 ---
 In my previous post, [I outlined the features of an income share agreement](https://bradjohansen.com/blog/an-introduction-to-income-share-agreements). Today, I will show how income share agreements have better structural incentives, enable price discovery and reduce the student's risk better than traditional loans.
