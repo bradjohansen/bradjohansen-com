@@ -3,7 +3,7 @@
 # Setup
 title:               Brad Johansen
 tagline:             'Some unorganized thoughts'
-description:         'Brad's blog'
+description:         "Brad's blog"
 url:                 'http://bradjohansen.com'
 baseurl:             ''
 
@@ -49,8 +49,7 @@ exclude:
   - Gemfile.lock
   - backstop_data
   - backstop.json
-  
-netlifycms: true
+ 
 
 # Theme
 # (Used for local or custom-server deployments)
