@@ -2,7 +2,7 @@
 layout: post
 title: 'An Introduction to Income Share Agreements'
 author: 'Brad Johansen'
-date: '2019-09-12 20:31:42'
+publication-date: '2019-09-12 20:31:42'
 ---
 In this post, I want to introduce the idea of income share agreements and define their basic features.
 
