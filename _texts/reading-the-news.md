@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Reading the News
-author: Brad Johansen
+title: 'Reading the News'
+author: 'Brad Johansen'
 date: '2020-01-05 23:44:54'
 ---
 I am constantly reading the news. I subscribe to The New York Times, The Wall Street Journal, The New Yorker, The Economist, Bloomberg, The Houston Chronicle, The Financial Times, Foreign Affairs, Foreign Policy and of course, I am always on Twitter. In addition, my job gives me access to [Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) which includes almost 8,000 other news sources.
