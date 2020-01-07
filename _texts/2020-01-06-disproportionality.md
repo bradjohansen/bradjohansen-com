@@ -5,9 +5,9 @@ author: 'Brad Johansen'
 publication-date: '2020-01-06'
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">These Media Posts will serve as notification to the United States Congress that should Iran strike any U.S. person or target, the United States will quickly &amp; fully strike back, &amp; perhaps in a disproportionate manner. Such legal notice is not required, but is given nevertheless!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1213919480574812160?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">These Media Posts will serve as notification to the United States Congress that should Iran strike any U.S. person or target, the United States will quickly &amp; fully strike back, &amp; perhaps in a disproportionate manner. Such legal notice is not required, but is given nevertheless!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1213919480574812160?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-Thomas Aquinas first considered the principle of proportional response when he described the [doctrine of double effect](https://plato.stanford.edu/entries/double-effect/) in *Summa Theologica*. Aquinas explained that a single action can have  have two effects: saving one's life and taking another. If the good intention (read: saving one's life) is the one aimed at, then self-defense can be justified. Including this principle of good intention, the doctrine of double effect includes four requirements, listed below from Joseph Managan[^fn1].
+Thomas Aquinas first considered the principle of proportional response when he described the [doctrine of double effect](https://plato.stanford.edu/entries/double-effect/) in *Summa Theologica*. Aquinas explained that a single action can have  have two effects: such as saving one's life and taking another. If the good intention (read: saving one's life) is the one aimed at, then self-defense can be justified. Including this principle of good intention, the doctrine of double effect includes four requirements, listed below from Joseph Managan[^fn1].
 
 > A person may licitly perform an action that he foresees will produce a good effect and a bad effect provided that four conditions are verified at one and the same time:
 > 1. that the action in itself from its very object be good or at least indifferent;
@@ -21,4 +21,4 @@ Proportionality is fundamental to the exercise of modern warfare. The things we 
 
 ---
 ## Footnotes
-[^fn1]: Mangan, Joseph, 1949. “An Historical Analysis of the Principle of Double Effect,” Theological Studies, 10: 41–61. {.bibliography}
+[^fn1]: Mangan, Joseph, 1949. “An Historical Analysis of the Principle of Double Effect,” Theological Studies, 10: 41–61. 
